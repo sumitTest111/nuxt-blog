@@ -4,6 +4,15 @@ import { seoData } from './data'
 export default defineNuxtConfig({
   compatibilityDate: '2024-09-30',
 
+   // Enable SSR and set target to 'static' for SSG
+   ssr: true,
+   target: 'static',
+ 
+   // Set the base URL for the router (required for GitHub Pages)
+   router: {
+     base: '/nuxt-blog/', // Replace with your repository name
+   },
+
   modules: [
     'nuxt-icon',
     '@nuxt/image',
