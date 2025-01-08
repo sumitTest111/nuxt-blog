@@ -39,7 +39,7 @@ export default defineNuxtConfig({
         // Add a Content Security Policy (CSP) meta tag
         {
           'http-equiv': 'Content-Security-Policy',
-          content: "img-src 'self' data: https://sumittest111.github.io/nuxt-blog/;",
+          content: "img-src 'self' data: https://sumittest111.github.io;",
         },
       ],
     },
