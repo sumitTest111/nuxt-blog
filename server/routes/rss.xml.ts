@@ -1,7 +1,7 @@
 import { Feed } from 'feed'
 import { serverQueryContent } from '#content/server'
 
-const basePath = 'https://nurriyad.com'
+const basePath = 'https://sumittest111.github.io/nuxt-blog/'
 
 export default defineEventHandler(async (event) => {
   setHeader(event, 'content-type', 'text/xml')
