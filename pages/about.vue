@@ -14,8 +14,8 @@ useHead({
 defineOgImageComponent('About', {
   headline: 'Greetings 👋',
   title: navbarData.homeTitle,
-  description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
-  link: '/riyad.jpg',
+  description: '',
+  link: '/buddha.png',
 })
 </script>
 
@@ -31,36 +31,28 @@ defineOgImageComponent('About', {
 
             <div class="my-3 space-x-2 md:space-x-3 pb-10">
               <NuxtLink
-                to="https://github.com/nurRiyad"
+                to="https://www.facebook.com/lebindra.gurung"
                 target="_blank"
                 class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
-                aria-label="Github"
+                aria-label="Facebook"
               >
-                <Icon name="fa:github" size="1em" />
+                <Icon name="fa:facebook" size="1em" />
               </NuxtLink>
               <NuxtLink
-                to="https://www.linkedin.com/in/nur-riyad/"
-                target="_blank"
-                class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
-                aria-label="LinkedIn"
-              >
-                <Icon name="fa:linkedin-square" size="1em" />
-              </NuxtLink>
-              <NuxtLink
-                to="https://twitter.com/qdnvubp"
+                to="https://twitter.com/"
                 target="_blank"
                 class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
                 aria-label="Twitter"
               >
-                <Icon name="fa:twitter-square" size="1em" />
+                <Icon name="fa6-brands:square-x-twitter" size="1em" />
               </NuxtLink>
               <NuxtLink
-                to="https://stackoverflow.com/users/16781395/nur-riyad"
+                to="https://insta.com/"
                 target="_blank"
                 class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
-                aria-label="StackOverflow"
+                aria-label="Instagram"
               >
-                <Icon name="fa:stack-overflow" size="1em" />
+                <Icon name="logos:instagram-icon" size="1em" />
               </NuxtLink>
             </div>
           </div>
@@ -75,7 +67,7 @@ defineOgImageComponent('About', {
         <p>{{ aboutPage.aboutMe }}</p>
       </div>
       <div class="hidden sm:block col-span-3">
-        <NuxtImg src="/riyad.jpg" width="450" height="500" quality="50" class="rounded-md" />
+        <NuxtImg src="/profile.jpg" width="450" height="500" quality="50" class="rounded-md" />
       </div>
     </div>
   </div>

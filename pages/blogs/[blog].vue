@@ -88,7 +88,9 @@ defineOgImageComponent('Test', {
 </script>
 
 <template>
-  <div class="px-6 container max-w-5xl mx-auto sm:grid grid-cols-12 gap-x-12">
+  <div class="px-6 container max-w-5xl mx-auto gap-x-12">
+    <!-- hide TOC -->
+  <!-- <div class="px-6 container max-w-5xl mx-auto sm:grid grid-cols-12 gap-x-12"> -->
     <div class="col-span-12 lg:col-span-9">
       <BlogHeader
         :title="data.title"
@@ -108,7 +110,8 @@ defineOgImageComponent('Test', {
         </ContentRenderer>
       </div>
     </div>
-    <BlogToc />
+    <!-- hide TOC -->
+    <!-- <BlogToc /> -->
 
     <div class="flex flex-row flex-wrap md:flex-nowrap mt-10 gap-2">
       <SocialShare

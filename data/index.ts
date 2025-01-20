@@ -1,21 +1,21 @@
 export const navbarData = {
-  homeTitle: "Riyad's Blog",
+  homeTitle: "लेबिन्द्र बहादुर गुरुङ",
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
+  author: 'लेबिन्द्र बहादुर गुरुङ',
   aboutAuthor:
-    'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
+    'नमस्ते||about about about about about about about about about about about about about about about about about about about ',
   authorInterest:
-    "I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let's connect.",
+    "Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest ",
   aboutTheSite:
-    "This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.",
+    "aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite ",
 }
 
 export const homePage = {
-  title: 'Welcome To My Blog Site',
+  title: 'मेरो लेख साइटमा स्वागत छ',
   description:
-    'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+    'Description about this site. like what will be posted or what can be read',
 }
 
 export const blogsPage = {
@@ -30,22 +30,22 @@ export const categoryPage = {
 }
 
 export const aboutPage = {
-  title: 'Al Asad Nur Riyad',
-  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
+  title: 'लेबिन्द्र बहादुर गुरुङ',
+  description: 'what best describe you? for example: writer,',
   aboutMe:
-    "Hello, fellow human! I'm a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I'm not crafting code, you can find me summoning solutions to problems on online judges. Just don't ask me to cast any love spells, my magic only works on machines!",
+    "about me in details. including professional background",
 }
 
 export const seoData = {
-  title: `Riyad's Blog | Riyads Blog`,
-  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - Riyads Blog | Riyad's Blog`,
-  description: `Hi I am Riyad. A Software Engineer at AppsCode, with over 2.5+ years experience in software development. - Riyads Blog | Riyad's Blog`,
-  twitterDescription: `Riyad's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Riyads Blog | Riyad's Blog`,
+  title: `लेबिन्द्र बहादुर गुरुङ`,
+  ogTitle: ``,
+  description: `about about `,
+  twitterDescription: ``,
   image:
-    'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
-  twitterHandle: '@qdnvubp',
-  mailAddress: 'asadnurriyad@gmail.com',
+    '/buddha.png',
+  mySite: 'https://test.sumitpun.com.np/',
+  twitterHandle: '',
+  mailAddress: 'sony23grg@gmail.com',
 }
 
 export const siteMetaData = [

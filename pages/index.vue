@@ -7,14 +7,14 @@ useHead({
     {
       name: 'description',
       content:
-        'Welcome To My Blog Site. Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+        'Welcome To My Article Site.',
     },
   ],
 })
 
 // Generate OG Image
 defineOgImageComponent('About', {
-  headline: 'Greetings 👋',
+  headline: 'नमस्ते 👋',
   title: navbarData.homeTitle,
   description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
   link: '/riyad.jpg',
