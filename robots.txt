@@ -1,5 +1,5 @@
 # START nuxt-robots (indexable)
 User-agent: *
 
-Sitemap: https://blog-nurriyad.vercel.app/sitemap.xml
+Sitemap: https://test.sumitpun.com.np/sitemap.xml
 # END nuxt-robots
