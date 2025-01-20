@@ -7,16 +7,16 @@ export default defineEventHandler(async (event) => {
   setHeader(event, 'content-type', 'text/xml')
   const docs = await serverQueryContent(event).sort({ date: -1 }).find()
   const feed = new Feed({
-    title: "Riyad's personal blog site",
-    description: "Riyad's personal blog site",
+    title: "Lebindra's Article site",
+    description: "Lebindra's Article site",
     id: basePath,
     link: basePath,
     language: 'en',
     favicon: `${basePath}/favicon.ico`,
     copyright: 'MIT',
     author: {
-      name: 'Al Asad Nur Riyad',
-      email: 'asadnurriyad@gmail.com',
+      name: 'Lebindra Bahadur Gurung',
+      email: 'sony23grg@gmail.com',
       link: basePath,
     },
   })

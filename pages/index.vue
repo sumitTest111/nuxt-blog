@@ -17,7 +17,7 @@ defineOgImageComponent('About', {
   headline: 'नमस्ते 👋',
   title: navbarData.homeTitle,
   description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
-  link: '/riyad.jpg',
+  link: '/profile.jpg',
 })
 </script>
 
