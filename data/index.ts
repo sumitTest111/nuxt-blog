@@ -5,41 +5,45 @@ export const navbarData = {
 export const footerData = {
   author: 'लेबिन्द्र बहादुर गुरुङ',
   aboutAuthor:
-    'नमस्ते||about about about about about about about about about about about about about about about about about about about ',
+    'Namaste!! I’m Lebindra Gurung, an educator and community advocate with experience in teaching, gender empowerment, agroforestry, and disability rehabilitation. Through my writings, photography, and insights, I aim to inspire and drive positive change. Join me on this journey! ',
   authorInterest:
-    "Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest Interest ",
+    `Join me as I strive to inspire, educate, and contribute to positive change in society. Let’s connect and grow together!`,
   aboutTheSite:
-    "aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite aboutTheSite ",
+    ` •	Personal Information of Lebindra Gurung.
+      •	Activities of Lebindra Gurung.
+      •	Collection of important information.
+      •	Scenic Photography 
+      •	Creative writing`,
 }
 
 export const homePage = {
-  title: 'मेरो लेख साइटमा स्वागत छ',
+  title: `मेरो लेख साइटमा स्वागत छ। \n Discover. Inspire. Grow.`,
   description:
-    'Description about this site. like what will be posted or what can be read',
+    'Discover the world of Lebindra Gurung through his personal journey, creative writings, and scenic photography. Explore insights on education, community development, gender empowerment, agroforestry, and disability rehabilitation. This platform also features a curated collection of important information, offering inspiration and knowledge for positive change. Join me in learning, growing, and making a difference!',
 }
 
 export const blogsPage = {
-  title: 'All Blogs',
-  description: 'Here you will find all the blog posts I have written & published on this site.',
+  title: 'All Articles',
+  description: 'Here you will find all the articles I have written & published on this site.',
 }
 
 export const categoryPage = {
   title: 'Categories',
   description:
-    'Blow this category is generated from all the tags are mentioned in the different blog post',
+    'Browse posts categorized by tags',
 }
 
 export const aboutPage = {
   title: 'लेबिन्द्र बहादुर गुरुङ',
-  description: 'what best describe you? for example: writer,',
+  description: 'Community Attendant, Writer and Social Campaigner',
   aboutMe:
-    "about me in details. including professional background",
+    "With extensive experience as a dedicated tutor and teacher across various educational institutions, I have passionately contributed to shaping minds and fostering learning. My journey extends beyond the classroom, as I have actively engaged in community development initiatives, focusing on gender empowerment, agroforestry, and community-based rehabilitation for people with disabilities. Additionally, I had the privilege of serving as the Executive Director of the Manakamana Area Development Committee, a renowned religious institution in Nepal, where I worked under the Government of Nepal to drive impactful development projects. My diverse experiences reflect my commitment to education, community empowerment, and sustainable development, all of which continue to inspire my work and contributions to society.",
 }
 
 export const seoData = {
   title: `लेबिन्द्र बहादुर गुरुङ`,
   ogTitle: ``,
-  description: `about about `,
+  description: `Community Attendant, Writer and Social Campaigner`,
   twitterDescription: ``,
   image:
     '/buddha.png',
