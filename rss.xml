@@ -4,7 +4,7 @@
         <title>Lebindra's Article site</title>
         <link>https://sumittest111.github.io/nuxt-blog/</link>
         <description>Lebindra's Article site</description>
-        <lastBuildDate>Mon, 20 Jan 2025 12:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 06:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,6 +16,14 @@
             <pubDate>Invalid Date</pubDate>
             <description><![CDATA[मेरो गाउँवाट मनकामना ६ कोशको दूरीमा छ । एकजना छिमेकी बज्यै हुनुहुन्थ्यो...]]></description>
             <content:encoded><![CDATA[मेरो गाउँवाट मनकामना ६ कोशको दूरीमा छ । एकजना छिमेकी बज्यै हुनुहुन्थ्यो...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[लाहुरेको बसाईंसराई]]></title>
+            <link>https://sumittest111.github.io/nuxt-blog//blogs/laure_ko_basai_sarai</link>
+            <guid>https://sumittest111.github.io/nuxt-blog//blogs/laure_ko_basai_sarai</guid>
+            <pubDate>Invalid Date</pubDate>
+            <description><![CDATA[लाहुरेहरूले स्कूल खोले, स्कूलले विद्यार्थीको सट्टा लाहुरे उत्पादन गरे, उमेर पुगेपछि युवाहरू घर छाडन...]]></description>
+            <content:encoded><![CDATA[लाहुरेहरूले स्कूल खोले, स्कूलले विद्यार्थीको सट्टा लाहुरे उत्पादन गरे, उमेर पुगेपछि युवाहरू घर छाडन...]]></content:encoded>
         </item>
     </channel>
 </rss>
